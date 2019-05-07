@@ -1,4 +1,4 @@
-# Python_for_Data_Analysis 
+# Python for Data Analysis 
 
 ### Data wrangling with `pandas`, `numpy` and `iPython`
 
