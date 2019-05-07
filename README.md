@@ -23,3 +23,10 @@
 #### Chapter 13 - Introductiuon to Modeling Libraries in Python 
 
 #### Chapter 14 - Data Analysis Examples 
+
+
+
+
+## Reference 
+
+[https://github.com/wesm/pydata-book](https://github.com/wesm/pydata-book)
